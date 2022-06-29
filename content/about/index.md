@@ -4,7 +4,10 @@ featuredImage: "static/1656503797859_Victor_Hugo-Hunchback.jpg"
 title: "About"
 ID: "af716745-ded2-4c68-a735-4e90848eb726"
 description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —Contentrain"
-menu: []
+menu:
+  main: {}
+  createdAt: 1656503829195
+  ID: "75d0c705-1364-4eaf-882d-3b544b1b6fbe"
 createdAt: 1656503820621
 
 ---
