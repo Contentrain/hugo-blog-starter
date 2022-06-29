@@ -1,7 +1,7 @@
 ---
 title: Contact
 featuredImage: ''
-omit_header_text: true
+omitHeaderText: true
 description: Laissez-nous un message!
 type: page
 menu: main

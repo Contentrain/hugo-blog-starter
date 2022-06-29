@@ -164,8 +164,8 @@ models:
         label: type
         default: page
       - type: boolean
-        name: omit_header_text
-        label: omit_header_text
+        name: omitHeaderText
+        label: omitHeaderText
         description: The title of the page.
       - type: image
         name: featuredImage
