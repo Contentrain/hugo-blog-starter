@@ -78,7 +78,7 @@ models:
         required: true
         fields:
           - type: string
-            name: featured_image
+            name: featuredImage
             label: Logo
           - type: string
             name: favicon
@@ -139,7 +139,7 @@ models:
         description: The title of the page.
         required: true
       - type: image
-        name: featured_image
+        name: featuredImage
         label: Featured Image
         description: Image displayed at in the pages intro section
       - type: string
@@ -168,7 +168,7 @@ models:
         label: omit_header_text
         description: The title of the page.
       - type: image
-        name: featured_image
+        name: featuredImage
         label: Featured Image
         description: Image displayed at in the pages intro section
       - type: string
@@ -192,7 +192,7 @@ models:
         label: Title
         description: The title of the page.
       - type: image
-        name: featured_image
+        name: featuredImage
         label: Featured Image
         description: Image displayed at in the pages intro section
       - type: string
@@ -222,7 +222,7 @@ models:
         name: date
         label: Date
       - type: image
-        name: featured_image
+        name: featuredImage
         label: Featured Image
         description: Image displayed at in the pages intro section
       - type: string

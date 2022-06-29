@@ -105,10 +105,10 @@ To enable comments, add following to your config file:
 
 ### Change the hero background
 
-For any page or post you can add a featured image by including the local path in front matter (see content in the `exampleSite/content/_readme.md` file for examples): `featured_image: '/images/gohugo-default-sample-hero-image.jpg'`
+For any page or post you can add a featured image by including the local path in front matter (see content in the `exampleSite/content/_readme.md` file for examples): `featuredImage: '/images/gohugo-default-sample-hero-image.jpg'`
 
 #### Featured image as Page Resources
-If user is using [Page Resources](https://gohugo.io/content-management/page-resources/), the theme will try and match the `featured_image` from with a page resource of type `image` and use its relative permalink. If no `featured_image` is set, the theme will look for a Page Resource of type `image` whose filepath incudes either `cover` or `feature` 
+If user is using [Page Resources](https://gohugo.io/content-management/page-resources/), the theme will try and match the `featuredImage` from with a page resource of type `image` and use its relative permalink. If no `featuredImage` is set, the theme will look for a Page Resource of type `image` whose filepath incudes either `cover` or `feature` 
 
 #### Other hero settings
 If you would like to hide the header text on the featured image on a page, set `omit_header_text` to `true`. See `exampleSite/content/contact.md` for an example.

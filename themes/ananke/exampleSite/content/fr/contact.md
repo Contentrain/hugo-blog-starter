@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: ''
+featuredImage: ''
 omit_header_text: true
 description: Laissez-nous un message!
 type: page
