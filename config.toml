@@ -2,16 +2,6 @@ baseURL = 'https://lively-kangaroo-620075.netlify.app'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
-[languages]
-  [languages.en]
-    title = "Ananke"
-    weight = 1
-    contentDir = "content/en"
-    # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.tr]
-    title = "Ananke TR"
-    weight = 2
-    contentDir = "content/tr"
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
